@@ -5,6 +5,13 @@ permalink: /assignments/
 author_profile: true
 ---
 
+
+{% assign posts = site.categories.assignments %}
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 ## Introduction
 
 In what ways does power move between fan-made and canonical narratives? Do fan fiction works replicate and reinterpret institutional authority, or do they undermine it? Prior to starting this study, we believed that fan fiction would place more focus on human agency, interpersonal relationships, and decision-making, whereas official Harry Potter novels would prioritize institutional authority Hogwarts, academics, and the Ministry of Magic. Our working hypothesis was that fan fiction would have a greater proportionate frequency of language connected to agency, whereas canon would be dominated by linguistic indications of institutional authority.
