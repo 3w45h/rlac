@@ -32,6 +32,7 @@ Importantly, when challenged, Gemini acknowledged which parts of its explanation
 
 
 Figure 4. Gemini interpreting the streamgraph without contextual information.
+
 When I removed all context and asked Gemini to interpret the data again, it fully committed to a single-narrative reading. It described a “massive mid-story character introduction,” a “dialogue-heavy plot,” and a structured character hierarchy. These conclusions are coherent, but entirely wrong given the actual structure of the corpus.
 This demonstrates a key point: LLMs prioritize coherence over correctness. They generate the most likely explanation, not the most accurate one.
 
