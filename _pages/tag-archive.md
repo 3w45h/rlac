@@ -73,3 +73,5 @@ This experiment shows that visualizations are highly dependent on context, and w
 Context does not just clarify meaning; it shapes it. It guides interpretation, but it can also amplify assumptions. As a result, effective visual communication requires more than presenting data—it requires explicit framing, methodological transparency, and critical interpretation.
 Ultimately, this process has made me more cautious. Computational tools and visualizations are powerful for identifying patterns, but patterns are not arguments. And when interpreted by LLMs, those patterns can quickly become stories that were never actually there.
 
+
+READY FOR GRADING
