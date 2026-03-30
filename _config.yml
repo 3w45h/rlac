@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Iyisha Almarzooqi"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Sophmore studying Economics, with a strange amount of knowledge on the hary potter world."
+  bio    : "Sophomore studying Economics, with a strange amount of knowledge on the hary potter world."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
